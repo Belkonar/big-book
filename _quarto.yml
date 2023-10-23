@@ -1,0 +1,19 @@
+project:
+  type: book
+
+book:
+  title: "The Big Book of Software Development"
+  author: "Joseph Dotson"
+  date: "10/23/2023"
+  chapters:
+    - index.qmd
+    - intro.qmd
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+
+
+
