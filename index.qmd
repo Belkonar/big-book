@@ -1,3 +1,7 @@
 # Preface {.unnumbered}
 
-This is the big book. An open source project documenting how to develop software successfully. 
+This is the big book. An open source project documenting how to develop software successfully.
+
+::: {.callout-note}
+Developing software is subjective.
+:::
