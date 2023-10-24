@@ -1,6 +1,5 @@
 project:
   type: book
-
 book:
   title: "The Big Book of Software Development"
   author: "Joseph Dotson"
@@ -8,10 +7,17 @@ book:
   downloads: [pdf, epub]
   chapters:
     - index.qmd
-    - intro/index.qmd
+    - "intro/index.qmd"
 format:
   html:
     theme: cosmo
+    toc-depth: 2
+    number-depth: 2
   pdf:
     documentclass: scrreprt
-  epub: default
+    toc-depth: 2
+    number-depth: 2
+  epub:
+    toc-depth: 2
+    number-depth: 2
+
