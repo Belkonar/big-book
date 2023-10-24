@@ -5,5 +5,3 @@ This is the big book. An open source project documenting how to develop software
 ::: {.callout-note}
 Developing software is subjective.
 :::
-
-This is a test
